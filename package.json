@@ -1,0 +1,19 @@
+{
+  "name": "hamadcodes-number-guessing-game",
+  "version": "1.0.0",
+  "description": "A number guessing game using typescript, nodejs and Inquirer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "bin": "index.js",
+  "author": "Muhammad Hamad",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
